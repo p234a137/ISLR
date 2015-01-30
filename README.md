@@ -33,5 +33,5 @@ It's a pleasure to have you as part of the course. Enjoy the journey!
 
 PS: Enrollment will remain open until March 21. If you are a fan of the course, please help us reach more students through social media. Please use Facebook, Twitter, or the social media of your choice to share:
 
-1) Our Promo Video: https://www.youtube.com/watch?v=St2-97n7atk
+1) Our Promo Video: https://www.youtube.com/watch?v=St2-97n7atk<br>
 2) Our Course Site: https://statlearning.class.stanford.edu
